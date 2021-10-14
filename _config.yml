@@ -31,11 +31,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left
-        sub_title: • Team leading duties,
+        sub_title:  Team leading duties,
       - layout: left
-        sub_title: • Experienced (micro)services architect
+        sub_title:  Experienced (micro)services architect
       - layout: left
-        sub_title: • Debian Linux user since 2013 and administrator since 2016, 
+        sub_title:  Debian Linux user since 2013 and administrator since 2016, 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
