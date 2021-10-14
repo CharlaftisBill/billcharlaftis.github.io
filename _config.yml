@@ -30,18 +30,18 @@ content:
   - title: Professional Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Team leading duties,
-      - Experienced microservices architect,
-      - Debian Linux user since 2013 and administrator since 2016,
-      - Hands on experience with system automation friendly scripting languages such as Bash, Python3, Node.js (Typescript),
-      - Daily user of Ansible provision tool to setup On-Premise servers,
-      - Solid understanding of DevOps main principles (Plan, Build, Test, Package, Deploy, Configure, Monitor) ,
-      - Deep knowledge of Docker containerization technology,
-      - Maintainer of 8 Docker Swarm clusters of 3 managers and 2 workers each running on DigitalOcean and On-Premise,
-      - In depth understanding of Network protocols such as SSH, TCP/UDP, HTTP(S), FTP(s), NFS, DHCP and many more,
-      - Experienced in configuring web servers/load balancers/reverse proxies such as Nginx and Apache,
-      - Strong understanding of CI/CD pipelines,
-      - Familiar with .Net Core as I have worked as C# backend developer for about 1 year. 
+      - <mark>Team leading</mark> duties,
+      - Experienced <mark>microservices</mark> architect,
+      - <mark>Debian Linux</mark> user since 2013 and <mark>administrator</mark> since 2016,
+      - Hands on experience with <mark>system automation friendly</mark> scripting languages such as <mark>Bash, Python3, Node.js (Typescript)</mark>,
+      - Daily user of <mark>Ansible</mark> provision tool to setup On-Premise servers,
+      - Solid understanding of <mark>DevOps</mark> main principles (Plan, Build, Test, Package, Deploy, Configure, Monitor) ,
+      - Deep knowledge of <mark>Docker</mark> containerization technology,
+      - Maintainer of 8 <mark>Docker Swarm</mark> clusters of 3 <mark>managers</mark> and 2 <mark>workers</mark> each running on <mark>DigitalOcean and On-Premise</mark>,
+      - In depth understanding of <mark>Network protocols</mark> such as SSH, TCP/UDP, HTTP(S), FTP(s), NFS, DHCP and many more,
+      - Experienced in configuring web servers/load balancers/reverse proxies such as <mark>Nginx</mark> and <mark>Apache</mark>,
+      - Strong understanding of <mark>CI/CD</mark> pipelines,
+      - Familiar with <mark>.Net Core</mark> as I have worked as C# backend developer for about 1 year. 
 
   - title: Homelab Experience
     layout: text
@@ -50,10 +50,10 @@ content:
       
       Some of the skills I gained through this process are:
 
-      - Kubernetes,
-      - Ceph storage for Kubernetes,
-      - ArgoCD,
-      - PiHole network protection
+      - <mark>Kubernetes</mark>,
+      - <mark>Ceph</mark> storage for Kubernetes,
+      - <mark>ArgoCD</mark>,
+      - <mark>PiHole</mark> network protection
 
   - title: Work Experience
     layout: list
@@ -68,18 +68,18 @@ content:
       - layout: left
         title: Guardian Telematics
         caption: 2018 - 2019
-        quote: >
-          Backend Developer Team Leader
         description: | # this will include new lines to allow paragraphs
+          <mark>Backend Developer Team Leader:</mark>
+
           I was spectating the software production process while being a part of it, as an active developer. My role was to design the software, to 
           code some programing features, to provide help to the other members of the team, to orchestrate the tasks and to make sure that we meet the 
           goals of the business.
       - layout: left
         title: Harokopeio University of Athens
         caption: 2016 - 2017
-        quote: >
-          Linux Administrator / IT Technician
         description: | # this will include new lines to allow paragraphs
+          <mark>Linux Administrator / IT Technician</mark>
+
           Every year Informatics and Telematics Department of Harokopeio University selects four students that are in the last year of  them education. 
           The  four  students  can  work  as  a “networks  and  technical  support  unit” for the  university  for  a  year  as  a  mean  for  them  to  gain  hands  on 
           experience.
