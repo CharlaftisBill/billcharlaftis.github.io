@@ -16,7 +16,7 @@ darkmode: true
 
 # Social links
 github_username:  CharlaftisBill
-linkedin_username: Bill Charlaftis
+linkedin_username: bill-charlaftis
 
 # About Section
 # about_title: About Me
@@ -58,14 +58,14 @@ content:
   - title: Work Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Guardian Telematics
         caption: 2019 - Today
         quote: >
           DevOps Engineer, System's Architect and Team leader
         description: | # this will include new lines to allow paragraphs
           My and my team are making sure that the companies products are highly available and can be scale up or down depending on the demand.
-      - layout: right
+      - layout: left
         title: Guardian Telematics
         caption: 2018 - 2019
         quote: >
@@ -74,7 +74,7 @@ content:
           I was spectating the software production process while being a part of it, as an active developer. My role was to design the software, to 
           code some programing features, to provide help to the other members of the team, to orchestrate the tasks and to make sure that we meet the 
           goals of the business.
-      - layout: right
+      - layout: left
         title: Harokopeio University of Athens
         caption: 2016 - 2017
         quote: >
