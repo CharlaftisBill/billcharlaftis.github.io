@@ -61,9 +61,9 @@ content:
       - layout: left
         title: Guardian Telematics
         caption: 2019 - Today
-        quote: >
-          DevOps Engineer, System's Architect and Team leader
         description: | # this will include new lines to allow paragraphs
+          DevOps Engineer, System's Architect and Team leader:
+          
           My and my team are making sure that the companies products are highly available and can be scale up or down depending on the demand.
       - layout: left
         title: Guardian Telematics
