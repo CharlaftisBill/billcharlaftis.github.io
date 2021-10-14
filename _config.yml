@@ -27,15 +27,21 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Docker</mark> and <mark>Ansible</mark>
 
 content:
-  - title: Professional Experience  # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-left
-        sub_title:  Team leading duties,
-      - layout: left
-        sub_title:  Experienced (micro)services architect
-      - layout: left
-        sub_title:  Debian Linux user since 2013 and administrator since 2016, 
+  - title: Professional Experience
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Team leading duties,
+      - Experienced microservices architect,
+      - Debian Linux user since 2013 and administrator since 2016,
+      - Hands on experience with system automation friendly scripting languages such as Bash, Python3, Node.js (Typescript),
+      - Daily user of Ansible provision tool to setup On-Premise servers,
+      - Solid understanding of DevOps main principles (Plan, Build, Test, Package, Deploy, Configure, Monitor) ,
+      - Deep knowledge of Docker containerization technology,
+      - Maintainer of 8 Docker Swarm clusters of 3 managers and 2 workers each running on DigitalOcean and On-Premise,
+      - In depth understanding of Network protocols such as SSH, TCP/UDP, HTTP(S), FTP(s), NFS, DHCP and many more,
+      - Experienced in configuring web servers/load balancers/reverse proxies such as Nginx and Apache,
+      - Strong understanding of CI/CD pipelines,
+      - Familiar with .Net Core as I have worked as C# backend developer for about 1 year. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
