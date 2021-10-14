@@ -30,7 +30,7 @@ content:
   - title: Professional Experience  # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-left
         sub_title:  Team leading duties,
       - layout: left
         sub_title:  Experienced (micro)services architect
