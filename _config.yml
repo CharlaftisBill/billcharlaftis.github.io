@@ -30,13 +30,13 @@ content:
   - title: Professional Experience  # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: left
         quote: >
           Team leading duties,
-      - layout: top-left
+      - layout: left
         quote: >
           Experienced (micro)services architect
-      - layout: top-left
+      - layout: left
         quote: >
           Debian Linux user since 2013 and administrator since 2016, 
 
