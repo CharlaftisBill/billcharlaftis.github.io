@@ -51,11 +51,10 @@ content:
       Some of the skills I gained through this process are:
 
       - <b>Kubernetes</b>,
-      - <b>Ceph</b> storage for Kubernetes,
-      - <b>ArgoCD</b>,
+      - <b>Ceph & GlusterFS</b> storage for Kubernetes,
+      - <b>Custom CI/CD tools</b>,
       - <b>PiHole</b> network protection,
       - Basic <b>Network LAN</b> knowledge,
-      -
 
   - title: Work Experience
     layout: list
