@@ -32,7 +32,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - <b>Team leading</b> duties,
       - Experienced <b>microservices</b> architect,
-      - <b>Debian Linux</b> user since 2013 and <b>administrator</b> since 2016,
+      - <b>Debian based Linux</b> user since 2013 and <b>administrator</b> since 2016,
       - Hands on experience with <b>system automation friendly</b> scripting languages such as <b>Bash, Python3, Node.js (Typescript)</b>,
       - Daily user of <b>Ansible</b> provision tool to setup On-Premise servers,
       - Solid understanding of <b>DevOps</b> main principles (Plan, Build, Test, Package, Deploy, Configure, Monitor) ,
@@ -53,7 +53,9 @@ content:
       - <b>Kubernetes</b>,
       - <b>Ceph</b> storage for Kubernetes,
       - <b>ArgoCD</b>,
-      - <b>PiHole</b> network protection
+      - <b>PiHole</b> network protection,
+      - Basic <b>Network LAN</b> knowledge,
+      -
 
   - title: Work Experience
     layout: list
