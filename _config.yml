@@ -22,26 +22,22 @@ linkedin_username: bill-charlaftis
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Bill and I'm a DevOps Engineer and System's Architect. I've plenty of experience on various DevOps tools and methodologies, as well as to (micro)sevices designee practices.
+  Hi, my name is Bill and I'm a DevOps Engineer and Researcher. I like creating automations scripts to simplify some procedures.
 
-  I am most skilled in: <b>Docker</b> and <b>Ansible</b>
+  I am most skilled in: <b>Docker</b> and <b>BASH</b>
 
 content:
   - title: Professional Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <b>Team leading</b> duties,
-      - Experienced <b>microservices</b> architect,
       - <b>Debian based Linux</b> user since 2013 and <b>administrator</b> since 2016,
       - Hands on experience with <b>system automation friendly</b> scripting languages such as <b>Bash, Python3, Node.js (Typescript)</b>,
       - Daily user of <b>Ansible</b> provision tool to setup On-Premise servers,
       - Solid understanding of <b>DevOps</b> main principles (Plan, Build, Test, Package, Deploy, Configure, Monitor) ,
-      - Deep knowledge of <b>Docker</b> containerization technology,
-      - Maintainer of 8 <b>Docker Swarm</b> clusters of 3 <b>managers</b> and 2 <b>workers</b> each running on <b>DigitalOcean and On-Premise</b>,
-      - In depth understanding of <b>Network protocols</b> such as SSH, TCP/UDP, HTTP(S), FTP(s), NFS, DHCP and many more,
+      - Deep knowledge of <b>Docker</b> and <b>Kubernetes</b>,
       - Experienced in configuring web servers/load balancers/reverse proxies such as <b>Nginx</b> and <b>Apache</b>,
-      - Strong understanding of <b>CI/CD</b> pipelines,
-      - Familiar with <b>.Net Core</b> as I have worked as C# backend developer for about 1 year. 
+      - Strong understanding of <b>CI/CD</b> pipelines (usualy GitLab CI),
+      - <b>Team leading</b>
 
   - title: Homelab Experience
     layout: text
@@ -51,7 +47,7 @@ content:
       Some of the skills I gained through this process are:
 
       - <b>Kubernetes</b>,
-      - <b>Ceph & GlusterFS</b> storage for Kubernetes,
+      - <b>Longhorn</b> for Kubernetes volumes,
       - <b>Custom CI/CD tools</b>,
       - <b>PiHole</b> network protection,
       - Basic <b>Network LAN</b> knowledge,
@@ -60,12 +56,20 @@ content:
     layout: list
     content:
       - layout: left
+        title: Ubitech
+        caption: November 2022 - Today
+        description: | # this will include new lines to allow paragraphs
+          <b>DevOps Engineer and Researcher:</b>
+
+          I am in a team that investigates, designes and applyies new technologies in the contexts of Ubitech's projects.
+
+      - layout: left
         title: Guardian Telematics
-        caption: 2019 - Today
+        caption: 2019 - November 2022
         description: | # this will include new lines to allow paragraphs
           <b>DevOps Engineer, System's Architect and Team leader:</b>
 
-          My and my team are making sure that the companies products are highly available and can be scale up or down depending on the demand.
+          Me and my team were making sure that the products are highly available and can be scale up or down depending on the demand.
       - layout: left
         title: Guardian Telematics
         caption: 2018 - 2019
